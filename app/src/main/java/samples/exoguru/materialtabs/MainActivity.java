@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -57,6 +59,13 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
+    public void onButtonClick(View v) {
+
+         new RequestTask().execute("http://www.robotarm.serverict.nl/index.php?x=3");
+
+
+
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
