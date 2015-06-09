@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/classes-da0394d368eafdb4f8a84c75adf5aa46b9534473.jar" />
+    </item>
+    <item
+        jar="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/classes-06ca0a5224993f76824d437c023eda7c7376cc8b.jar" />
+    </item>
+    <item
+        jar="/Users/RamonValk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-280c358e9145fcc6cfc5a2366b7e2f2b1e98a097.jar" />
+    </item>
+    <item
+        jar="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b457e09815d2b683490bdb2dc16e42a8b45b2e02.jar" />
+    </item>
+
+</items>
