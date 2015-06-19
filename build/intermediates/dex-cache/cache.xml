@@ -2,53 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/Users/RamonValk/Dropbox/INF1H Periode 4/App/App/Kappa Controller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jar="C:\Users\Xalandra\Documents\GitHub\App\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Xalandra\Documents\GitHub\App\app\build\intermediates\pre-dexed\debug\classes-fc66e440493d2ec291ab20b7f023ddf9fa502842.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xalandra\Documents\GitHub\App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/RamonValk/Dropbox/INF1H Periode 4/App/App/Kappa Controller/app/build/intermediates/pre-dexed/debug/classes-d2e77bed9bf9ed7fd5ee7e9aecca60ef27b3da73.jar" />
+        <dex dex="C:\Users\Xalandra\Documents\GitHub\App\app\build\intermediates\pre-dexed\debug\classes-5a87c23969bf662d401fd636784e3047499186f5.jar" />
     </item>
     <item
-        jar="/Users/RamonValk/Dropbox/INF1H Periode 4/App/App/Kappa Controller/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/RamonValk/Dropbox/INF1H Periode 4/App/App/Kappa Controller/app/build/intermediates/pre-dexed/debug/classes-85eb3664acc8ff4521091bc63588b86c646e3b1c.jar" />
-    </item>
-    <item
-        jar="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/classes-da0394d368eafdb4f8a84c75adf5aa46b9534473.jar" />
-    </item>
-    <item
-        jar="/Users/RamonValk/Dropbox/INF1H Periode 4/App/App/Kappa Controller/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jar="C:\Users\Xalandra\Documents\GitHub\App\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/RamonValk/Dropbox/INF1H Periode 4/App/App/Kappa Controller/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-62c6f5a5c964f558781a1c2077c585b2a6b926cd.jar" />
+        <dex dex="C:\Users\Xalandra\Documents\GitHub\App\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b64759f226b602e71ab6136b44fadae1d89df127.jar" />
     </item>
     <item
-        jar="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/classes-06ca0a5224993f76824d437c023eda7c7376cc8b.jar" />
-    </item>
-    <item
-        jar="/Users/RamonValk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jar="C:\Users\Xalandra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-280c358e9145fcc6cfc5a2366b7e2f2b1e98a097.jar" />
-    </item>
-    <item
-        jar="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/RamonValk/Downloads/Material-Tabs 2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b457e09815d2b683490bdb2dc16e42a8b45b2e02.jar" />
+        <dex dex="C:\Users\Xalandra\Documents\GitHub\App\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-9bfff232dd343ebd236ab2c647e529f4b84f2292.jar" />
     </item>
 
 </items>
